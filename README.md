@@ -1,16 +1,5 @@
 # team_cost_clone
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src= "https://user-images.githubusercontent.com/36918286/217581989-e920c7d9-b7c8-47de-97f7-8630b1cd797a.png" width="360" height="730">
+<img src= "https://user-images.githubusercontent.com/36918286/217582723-0b6eb1d2-d28f-40f2-8858-748ab1607d5f.png" width="360" height="720">
+<img src= "https://user-images.githubusercontent.com/36918286/217582858-96d892de-3ecb-44f1-9575-5fb54d41cc0f.png " width="360" height="720">
